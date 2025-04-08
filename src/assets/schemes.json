@@ -1,0 +1,200 @@
+{
+  "schemes": [
+    {
+      "state": "Uttar Pradesh",
+      "category": "Farmer",
+      "name": "PM Kisan Samman Nidhi",
+      "description": "Direct income support of Rs 6000 per year to eligible farmer families",
+      "link": "https://pmkisan.gov.in"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Student",
+      "name": "UP Scholarship Scheme",
+      "description": "Financial assistance for pre- and post-matric students",
+      "link": "https://scholarship.up.gov.in"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Women",
+      "name": "Beti Bachao Beti Padhao",
+      "description": "Promotes education and welfare of girl children",
+      "link": "https://wcd.nic.in/bbbp-schemes"
+    },
+    {
+      "state": "Uttar Pradesh",
+      "category": "Small Business",
+      "name": "PM Mudra Yojana",
+      "description": "Loans up to Rs 10 lakh for micro-enterprises",
+      "link": "https://www.mudra.org.in"
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Farmer",
+      "name": "Maharashtra Shetkari Sanman Yojana",
+      "description": "Rs 6000 per year income support for farmers",
+      "link": "https://mahadbt.maharashtra.gov.in"
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Student",
+      "name": "Rajarshi Shahu Maharaj Scholarship",
+      "description": "Rs 5000-10000 for economically backward students",
+      "link": "https://mahadbt.maharashtra.gov.in"
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Women",
+      "name": "Mahila Samriddhi Yojana",
+      "description": "Micro-loans for women entrepreneurs",
+      "link": "https://nsfdc.nic.in"
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Small Business",
+      "name": "PMEGP",
+      "description": "Subsidies for starting small businesses",
+      "link": "https://www.kviconline.gov.in/pmegp"
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Farmer",
+      "name": "Tamil Nadu Agricultural Subsidy Scheme",
+      "description": "Subsidies for seeds and farming equipment",
+      "link": "https://agrisnet.tn.gov.in"
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Student",
+      "name": "Tamil Nadu Post-Matric Scholarship",
+      "description": "Financial aid for SC/ST/OBC students",
+      "link": "https://escholarship.tn.gov.in"
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Women",
+      "name": "Amma Two-Wheeler Scheme",
+      "description": "50% subsidy on scooters for working women",
+      "link": "https://www.tamilnadumahalir.org"
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Small Business",
+      "name": "PM Mudra Yojana",
+      "description": "Loans up to Rs 10 lakh for small businesses",
+      "link": "https://www.mudra.org.in"
+    },
+    {
+      "state": "Bihar",
+      "category": "Farmer",
+      "name": "PM Kisan Samman Nidhi",
+      "description": "Direct income support of Rs 6000 per year to eligible farmer families",
+      "link": "https://pmkisan.gov.in"
+    },
+    {
+      "state": "Bihar",
+      "category": "Student",
+      "name": "Bihar Student Credit Card Scheme",
+      "description": "Loans up to Rs 4 lakh for higher education",
+      "link": "https://www.7nishchay-yuvaupmission.bihar.gov.in"
+    },
+    {
+      "state": "Bihar",
+      "category": "Women",
+      "name": "Mukhyamantri Nari Shakti Yojana",
+      "description": "Support for women’s self-help groups",
+      "link": "https://swd.bihar.gov.in"
+    },
+    {
+      "state": "Bihar",
+      "category": "Small Business",
+      "name": "Bihar Startup Policy",
+      "description": "Grants up to Rs 10 lakh for new ventures",
+      "link": "https://startup.bihar.gov.in"
+    },
+    {
+      "state": "Karnataka",
+      "category": "Farmer",
+      "name": "Raitha Samruddhi Yojana",
+      "description": "Subsidies for farm mechanization",
+      "link": "https://raitamitra.karnataka.gov.in"
+    },
+    {
+      "state": "Karnataka",
+      "category": "Student",
+      "name": "Vidya Siri Scholarship",
+      "description": "Rs 5000-15000 for rural students",
+      "link": "https://scholarships.karnataka.gov.in"
+    },
+    {
+      "state": "Karnataka",
+      "category": "Women",
+      "name": "Stree Shakti Scheme",
+      "description": "Loans and training for women self-help groups",
+      "link": "https://dwcd.kar.nic.in"
+    },
+    {
+      "state": "Karnataka",
+      "category": "Small Business",
+      "name": "PMEGP",
+      "description": "Subsidies for small enterprises",
+      "link": "https://www.kviconline.gov.in/pmegp"
+    },
+    {
+      "state": "West Bengal",
+      "category": "Farmer",
+      "name": "Krishak Bandhu",
+      "description": "Rs 5000-10000 per year for farmers",
+      "link": "https://krishakbandhu.net"
+    },
+    {
+      "state": "West Bengal",
+      "category": "Student",
+      "name": "Kanyashree Prakalpa",
+      "description": "Rs 25000 one-time grant for girl students",
+      "link": "https://wbkanyashree.gov.in"
+    },
+    {
+      "state": "West Bengal",
+      "category": "Women",
+      "name": "Rupashree Prakalpa",
+      "description": "Rs 25000 for marriage of poor girls",
+      "link": "https://wbrupashree.gov.in"
+    },
+    {
+      "state": "West Bengal",
+      "category": "Small Business",
+      "name": "PM Mudra Yojana",
+      "description": "Loans up to Rs 10 lakh for micro-businesses",
+      "link": "https://www.mudra.org.in"
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Farmer",
+      "name": "Mukhyamantri Kisan Sahay Yojana",
+      "description": "Rs 5000-25000 for crop loss compensation",
+      "link": "https://agriculture.rajasthan.gov.in"
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Student",
+      "name": "Rajasthan Scholarship Scheme",
+      "description": "Financial aid for SC/ST/OBC students",
+      "link": "https://sje.rajasthan.gov.in"
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Women",
+      "name": "Raj Mahila Suraksha Yojana",
+      "description": "Support for women’s safety and welfare",
+      "link": "https://wcd.rajasthan.gov.in"
+    },
+    {
+      "state": "Rajasthan",
+      "category": "Small Business",
+      "name": "PMEGP",
+      "description": "Subsidies for small startups",
+      "link": "https://www.kviconline.gov.in/pmegp"
+    }
+  ]
+}

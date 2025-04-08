@@ -1,0 +1,144 @@
+{
+  "schemes": [
+    {
+      "state": "UP",
+      "category": "Farmer",
+      "name": "Kisan Samman Nidhi",
+      "description": "Direct income support of Rs 6000 per year to eligible farmer families",
+      "link": "https://pmkisan.gov.in"
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Student",
+      "name": "Maharashtra Student Scholarship",
+      "description": "Financial assistance for higher education to meritorious students",
+      "link": "https://mahadbt.gov.in"
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Women",
+      "name": "Amma Two Wheeler Scheme",
+      "description": "Subsidized two-wheeler scheme for working women",
+      "link": "https://tn.gov.in"
+    },
+    {
+      "state": "Bihar",
+      "category": "Small Business",
+      "name": "Bihar Startup Policy",
+      "description": "Support and incentives for new business ventures",
+      "link": "https://startup.bihar.gov.in"
+    },
+    {
+      "state": "Karnataka",
+      "category": "Farmer",
+      "name": "Raitha Belaku",
+      "description": "Direct benefit transfer for farmers in Karnataka",
+      "link": "https://raithabandhu.karnataka.gov.in"
+    },
+    {
+      "state": "UP",
+      "category": "Student",
+      "name": "UP Student Scholarship",
+      "description": "Scholarship for higher education students",
+      "link": "https://scholarship.up.gov.in"
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Women",
+      "name": "Mahila Shakti Kendra",
+      "description": "Empowerment centers for rural women",
+      "link": "https://wcd.maharashtra.gov.in"
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Small Business",
+      "name": "MSME Support Scheme",
+      "description": "Financial and technical support for MSMEs",
+      "link": "https://msme.tn.gov.in"
+    },
+    {
+      "state": "Bihar",
+      "category": "Farmer",
+      "name": "Bihar Kisan Credit Card",
+      "description": "Easy credit access for farmers",
+      "link": "https://kcc.bihar.gov.in"
+    },
+    {
+      "state": "Karnataka",
+      "category": "Student",
+      "name": "Vidya Siri Scheme",
+      "description": "Scholarship for SC/ST students",
+      "link": "https://vidyasiri.karnataka.gov.in"
+    },
+    {
+      "state": "UP",
+      "category": "Women",
+      "name": "Beti Bachao Beti Padhao",
+      "description": "Scheme for girl child education and protection",
+      "link": "https://wcd.up.gov.in"
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Small Business",
+      "name": "Maharashtra Industrial Policy",
+      "description": "Incentives for industrial development",
+      "link": "https://industry.maharashtra.gov.in"
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Farmer",
+      "name": "Uzhavar Santhai",
+      "description": "Direct marketing platform for farmers",
+      "link": "https://uzhavarsanthai.tn.gov.in"
+    },
+    {
+      "state": "Bihar",
+      "category": "Student",
+      "name": "Bihar Student Credit Card",
+      "description": "Education loan scheme for students",
+      "link": "https://studentcreditcard.bihar.gov.in"
+    },
+    {
+      "state": "Karnataka",
+      "category": "Women",
+      "name": "Stree Shakti",
+      "description": "Women's self-help group support program",
+      "link": "https://streeshakti.karnataka.gov.in"
+    },
+    {
+      "state": "UP",
+      "category": "Small Business",
+      "name": "One District One Product",
+      "description": "Promotion of traditional industries",
+      "link": "https://odop.up.gov.in"
+    },
+    {
+      "state": "Maharashtra",
+      "category": "Farmer",
+      "name": "Maharashtra Agri Tech",
+      "description": "Technology adoption support for farmers",
+      "link": "https://agritech.maharashtra.gov.in"
+    },
+    {
+      "state": "Tamil Nadu",
+      "category": "Student",
+      "name": "TN Student Scholarship",
+      "description": "Merit-based scholarship for college students",
+      "link": "https://scholarship.tn.gov.in"
+    },
+    {
+      "state": "Bihar",
+      "category": "Women",
+      "name": "Jeevika",
+      "description": "Rural livelihood mission for women",
+      "link": "https://jeevika.bihar.gov.in"
+    },
+    {
+      "state": "Karnataka",
+      "category": "Small Business",
+      "name": "Karnataka MSME Policy",
+      "description": "Comprehensive support for MSME sector",
+      "link": "https://msme.karnataka.gov.in"
+    }
+  ]
+} 
